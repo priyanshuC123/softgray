@@ -1,0 +1,264 @@
+body {
+  margin: 0;
+  font-family: "montserrat";
+  text-align: center;
+background-color:  #EAEAEA;
+}
+.nav-link{
+  color: #8f8f8f;
+}
+
+h1{
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+h2{
+  color: black;
+  font-family: "montserrat";
+  text-align: center;
+  font-size: 1.5rem;
+}
+.navbar-toggler{
+  color: black;
+}
+#navbar {
+
+  padding: 0%;
+  background-color: white;
+
+}
+
+.navbar-brand {
+  font-family: "ubuntu";
+  font-weight: bold;
+ font-size: 2rem;
+
+ padding-left: 100px;
+color: black;
+}
+.nav-item {
+   /*padding: 10%;*/ 
+   font-size: 1.25rem;
+   color: black;
+   
+}
+.navbar-nav {
+  margin-left: 35%;
+
+}
+.nav-link5{
+   font-family: "ubuntu";
+  font-weight: bold;
+  position: relative;
+top:15%;
+left: 45%;
+  color: black;
+
+}
+
+
+
+
+  #Title {
+    text-align: center;
+    background-image: url(../images/laptop.jpg);
+padding: 8.5%;
+background-repeat: no-repeat;
+background-size: 100%;
+ background-position: bottom ;
+
+  }
+
+  .big-heading {
+
+    color: white;
+   position: relative;
+    left:  35%;
+    
+  }
+
+.p1{
+  color: white;
+   position: relative;
+  right:  10%;
+  padding-top: 100px;
+
+}
+
+
+.col {
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+#features{
+  padding: 5%;
+
+}
+.feat{
+  color: #3B9AE1;
+  
+  font-family: 'Poppins', sans-serif;
+}
+
+.f{
+  color: black;
+  font-size: medium;
+  text-align: left;
+}
+
+
+
+.iconsb{
+  padding-top: 22px;
+  padding-bottom: 22px;
+  width: 35%;
+  background-color: #3B9AE1;
+  border-radius: 50%;
+  position: relative;
+  left: 31%;
+  margin-bottom: 10px;
+}
+.icons{
+  width: 60px !important;
+  height: 60px !important;
+  color: white;
+  
+  padding: 10px;
+}
+
+@media only screen and (max-width: 600px){
+
+
+  body {
+    margin: 0;
+    font-family: "montserrat";
+    text-align: center;
+  background-color:  #EAEAEA;
+  }
+  .nav-link{
+    color: #8f8f8f;
+  }
+  
+  h1{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+  }
+  h2{
+    color: black;
+    font-family: "montserrat";
+    text-align: center;
+    font-size: 1.5rem;
+  }
+  .navbar-toggler{
+    color: black;
+  }
+  #navbar {
+  
+    padding: 0%;
+    background-color: white;
+  
+  }
+  
+  .navbar-brand {
+    font-family: "ubuntu";
+    font-weight: bold;
+   font-size: 2rem;
+  
+   padding-left: 100px;
+  color: black;
+  }
+  .nav-item {
+     /*padding: 10%;*/ 
+     font-size: 1.25rem;
+     color: black;
+     
+  }
+  .navbar-nav {
+    margin-left: 35%;
+  
+  }
+  .nav-link5{
+     font-family: "ubuntu";
+    font-weight: bold;
+    position: relative;
+  top:15%;
+  left: 45%;
+    color: black;
+  
+  }
+  
+  
+  
+  
+    #Title {
+      text-align: center;
+      background-image: url(../images/laptop.jpg);
+  padding: 8.5%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+   background-position: bottom ;
+  
+    }
+  
+    .big-heading {
+  
+      color: white;
+     position: relative;
+      left:  35%;
+      
+    }
+  
+  .p1{
+    color: white;
+     position: relative;
+    right:  10%;
+    padding-top: 100px;
+  
+  }
+  
+  
+  .col {
+    float: left;
+    width: 25%;
+    text-align: center;
+  }
+  #features{
+    padding: 5%;
+  
+  }
+  .feat{
+    color: #3B9AE1;
+    
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .f{
+    color: black;
+    font-size: medium;
+    text-align: left;
+  }
+  
+  
+  
+  .iconsb{
+    padding-top: 22px;
+    padding-bottom: 22px;
+    width: 35%;
+    background-color: #3B9AE1;
+    border-radius: 50%;
+    position: relative;
+    left: 31%;
+    margin-bottom: 10px;
+  }
+  .icons{
+    width: 60px !important;
+    height: 60px !important;
+    color: white;
+    
+    padding: 10px;
+  }
+
+
+
+}
